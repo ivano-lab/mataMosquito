@@ -7,8 +7,9 @@ Este é um simples jogo desenvolvido em JavaScript onde o objetivo é matar mosq
 ## Como Jogar
 
 1. Abra o arquivo `index.html` em seu navegador.
-2. Clique nos mosquitos que aparecem na tela para matá-los.
-3. Evite que os mosquitos escapem da tela, pois isso resultará na perda de pontos.
+2. Escolha o nível de dificuldade.
+3. Clique nos mosquitos que aparecem na tela para matá-los.
+4. Evite que os mosquitos escapem da tela, pois isso resultará na perda de pontos.
 
 ## Recursos
 
